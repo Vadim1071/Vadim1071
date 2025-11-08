@@ -22,8 +22,8 @@
 
 **Приложение для заметок с REST API на Django и фронтендом на React/Next.js**
 
-[![Backend](https://img.shields.io/badge/-Backend-Django-092E20?logo=django&logoColor=white)](https://github.com/Vadim1071/django-note-taker)
-[![Frontend](https://img.shields.io/badge/-Frontend-React/Next.js-61DAFB?logo=nextdotjs&logoColor=white)](https://github.com/Vadim1071/frontend-django-note-taker)
+[![Backend](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)](https://github.com/Vadim1071/django-note-taker)
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)](https://github.com/Vadim1071/frontend-django-note-taker)
 
 > Полноценное приложение для заметок с безопасной JWT-аутентификацией, ролевой моделью и удобным интерфейсом.
 
